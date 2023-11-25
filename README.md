@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 Sou estudante de Engenharia de Software e possuo um ensino técnico em Análise e Desenvolvimento de Sistemas. Com conhecimentos em Python, Java, HTML, CSS e experiência no uso do framework Django para desenvolvimento web, e o framework Bootstrap para criação de interfaces responsivas. Estou em busca de oportunidades para aprimorar minhas habilidades de programação e trabalhar em projetos significativos. Meus objetivo é fazer a diferença por meio de soluções tecnológicas eficazes e contribuir positivamente para a área de tecnologia.
 
 ## Conhecimentos
-- **Front-end:** HTML, CSS, Bootstrap para criação de interfaces responsivas.
-- **Back-end:** Python, Java, Django para desenvolvimento web.
+- **Front-end:** HTML, CSS, Bootstrap.
+- **Back-end:** Python, Java, Django.
 
 <!--
 ## Projeto em Andamento
