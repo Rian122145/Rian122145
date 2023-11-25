@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, eu sou Rian 👋
 
 <!--
 **Rian122145/Rian122145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Sobre mim
+Sou estudante de Engenharia de Software e possuo um ensino técnico em Análise e Desenvolvimento de Sistemas. Com conhecimentos em Python, Java, HTML, CSS e experiência no uso do framework Django para desenvolvimento web, e o framework Bootstrap para criação de interfaces responsivas. Estou em busca de oportunidades para aprimorar minhas habilidades de programação e trabalhar em projetos significativos. Meus objetivo é fazer a diferença por meio de soluções tecnológicas eficazes e contribuir positivamente para a área de tecnologia.
+
+## Conhecimentos
+- **Front-end:** HTML, CSS, Bootstrap para criação de interfaces responsivas.
+- **Back-end:** Python, Java, Django para desenvolvimento web.
+
+<!--
+## Projeto em Andamento
+No momento, estou trabalhando em [Nome do Projeto em Andamento](link-para-o-projeto-em-andamento), um projeto [breve descrição do projeto em andamento]. Este projeto visa [objetivo ou propósito do projeto em andamento].
+
+## 🌱 Atualmente estou aprendendo
+Estou atualmente me aprofundando em [Tecnologia ou Área de Aprendizado], visando expandir meus conhecimentos e habilidades na área de [breve descrição da tecnologia ou área].
+-->
+
+## Interesses
+- **Desenvolvimento FullStack:** Explorando novas tecnologias e frameworks.
+- **Segurança da Informação:** Interesse crescente em aprender mais sobre cibersegurança.
+- **Aprendizado Contínuo:** Sempre buscando novos conhecimentos e desafios.
+
+## Contato
+- LinkedIn: [Rian Guedes Rodrigues](www.linkedin.com/in/rianguedesrodrigues)
+- Email: rian.grodrigues@gmail.com
+
+Estou aberto para colaborações e oportunidades na área de Engenharia de Software e desenvolvimento de sistemas!
