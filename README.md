@@ -18,9 +18,20 @@ Here are some ideas to get you started:
 ## Sobre mim
 Sou estudante de Engenharia de Software e possuo um ensino técnico em Análise e Desenvolvimento de Sistemas. Com conhecimentos em Python, Java, HTML, CSS e experiência no uso do framework Django para desenvolvimento web, e o framework Bootstrap para criação de interfaces responsivas. Estou em busca de oportunidades para aprimorar minhas habilidades de programação e trabalhar em projetos significativos. Meus objetivo é fazer a diferença por meio de soluções tecnológicas eficazes e contribuir positivamente para a área de tecnologia.
 
-## Conhecimentos
-- **Front-end:** HTML, CSS, Bootstrap.
-- **Back-end:** Python, Java, Django.
+## Conhecimentos e Estatísticas
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
+ <div>
+    <h3>Meus Conhecimentos</h3>
+    <ul>
+      <li><strong>Front-end:</strong> HTML, CSS, Bootstrap.</li>
+      <li><strong>Back-end:</strong> Python, Java, Django.</li>
+    </ul>
+ </div>
+ <div>
+    <h3>Estatísticas do GitHub</h3>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian122145&layout=compact&langs_count=7&theme=dark">
+ </div>
+</div>
 
 <!--
 ## Projeto em Andamento
