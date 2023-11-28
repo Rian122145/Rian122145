@@ -20,12 +20,11 @@ Sou estudante de Engenharia de Software e possuo um ensino técnico em Análise 
 
 ## Conhecimentos e Estatísticas
 ### Meus Conhecimentos
-
 - **Front-end:** HTML, CSS, Bootstrap.
 - **Back-end:** Python, Java, Django.
 
 ### Estatísticas do GitHub
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian122145&layout=compact&langs_count=7&theme=dark">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rian122145&show_icons=true&theme=dark&include_all_commits=true&count_private=true"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian122145&layout=compact&langs_count=7&theme=dark">
 
 <!--
 ## Projeto em Andamento
