@@ -40,7 +40,7 @@ Estou atualmente me aprofundando em [Tecnologia ou Área de Aprendizado], visand
 - **Aprendizado Contínuo:** Sempre buscando novos conhecimentos e desafios.
 
 ## Contato
-- LinkedIn: [Rian Guedes Rodrigues](www.linkedin.com/in/rianguedesrodrigues)
+- LinkedIn: [Rian Guedes Rodrigues](https://www.linkedin.com/in/rianguedesrodrigues/)
 - Email: rian.grodrigues@gmail.com
 
 Estou aberto para colaborações e oportunidades na área de Engenharia de Software e desenvolvimento de sistemas!
